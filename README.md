@@ -1,3 +1,3 @@
 # wizard-of-oz
 
-HTML, CSS, and Github practice
+HTML, CSS, and Github Practice
